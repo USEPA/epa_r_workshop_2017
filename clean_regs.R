@@ -11,9 +11,13 @@ regs <- read_csv("2017-09-06_registrants.csv", na = c("", "None")) %>%
   select(first_name, last_name, intro, spatial, viz, email) %>%
   arrange(last_name)
 
+# Changes
 regs <- regs %>% 
   mutate(intro = ifelse(first_name == "Amr", NA, intro),
-         viz = ifelse(first_name == "Amr", "PM", viz))
+         viz = ifelse(first_name == "Amr", "PM", viz),
+         intro = ifelse(last_name == "Pluntke", "All Day Session", intro),
+         viz = ifelse(last_name == "Pluntke", NA, viz),
+         spatial = ifelse(last_name == "Pluntke", NA, spatial))
 
 write_csv(regs, "2017-09-06_registrants_clean.csv")
 
