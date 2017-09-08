@@ -34,7 +34,7 @@ When you arrive at BLS, let the guard know that you are with the EPA R Workshop 
 |1:30 PM - 2:30 PM|Air Quality Epidemiology and R|Joel Schwartz, Harvard University, T.H. Chan School of Public Health|
 |2:30 PM - 3:00 PM|**Break**||
 |**R Across the Federal Gov**|||
-|3:00 PM - 3:20 PM|TBD|Arcenis Rojas, Bureau of Labor Statistics|
+|3:00 PM - 3:20 PM|R: Innovating at the Bureau of Labor Statistics|Arcenis Rojas, Bureau of Labor Statistics|
 |3:20 PM - 3:40 PM|In with the New: a Shiny App for Exploring Summary Data Tables from the Medical Expenditure Panel Survey|Emily Mitchell, Agency for Healthcare Research and Quality|
 |3:40 PM - 4:00 PM|An R Shiny Implementation for Clinical Review Tools at the FDA|Jimmy Wong, Food and Drug Administration|
 |4:00 PM - 4:20 PM|Reproducibility and Applications|Richard Schwinn, Small Business Administration|
