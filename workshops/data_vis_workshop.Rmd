@@ -1,0 +1,21 @@
+---
+title: "Data visualization with ggplot2 workshop"
+author: "Lou Reynolds, Region 3"
+date: "September 12, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Data Visualization with ggplot2 workshop
+
+Materials for this workshop are linked below:
+
+- [Data Vis Materials](R3DataVis.html)
+- [Data Vis Source](R3DataVis.rmd)
+- [Data Vis Data](VisData.xlsx)
+- [RStudio Data Wrangling Cheatsheet](data-wrangling-cheatsheet.pdf)
+- [RStudio Data Visualization Cheatsheet](ggplot2-cheatsheet.pdf)
+- [RStudio RMarkdown Cheatsheet](rmarkdown-cheatsheet.pdf)
