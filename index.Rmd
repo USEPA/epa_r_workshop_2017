@@ -25,23 +25,23 @@ When you arrive at BLS, let the guard know that you are with the EPA R Workshop 
 
 ## Mon, Sep. 11
 
-|Time   |Title                         |Speaker                    |
-|-------|------------------------------|---------------------------|
-|11:00 AM - 1:00 PM|Registration||
-|1:00 PM - 1:10 PM|Introduction|Jeff Hollister and Ann Vega, US EPA, Office of Research and Development|
-|1:10 PM - 1:30 PM|Welcome|Harvey Simon, US EPA, Office of Environmental Information, Acting Deputy CIO|
-|**Keynote Address**|||
-|1:30 PM - 2:30 PM|[EPA-R: Open Software, Big Data, and Modern Statistical Modeling](presentations/2017-09-11_schwartz.pptx)|Joel Schwartz, Harvard University, T.H. Chan School of Public Health|
-|2:30 PM - 3:00 PM|**Break**||
-|**R Across the Federal Gov**|||
-|3:00 PM - 3:20 PM|[R: Innovating at the Bureau of Labor Statistics](presentations/2017-09-11_rojas.pptx)|Arcenis Rojas, Bureau of Labor Statistics|
-|3:20 PM - 3:40 PM|[In with the New: a Shiny App for Exploring Summary Data Tables from the Medical Expenditure Panel Survey](presentations/2017-09-11_mitchell.pdf)|Emily Mitchell, Agency for Healthcare Research and Quality|
-|3:40 PM - 4:00 PM|[An R Shiny Implementation for Clinical Review Tools at the FDA](presentations/2017-09-11_wong.pptx)|Jimmy Wong, Food and Drug Administration|
-|4:00 PM - 4:20 PM|[Reproducibility and Applications](presentations/2017-09-11_schwinn.pdf)|Richard Schwinn, Small Business Administration|
-|4:20 PM - 4:40 PM|[Some Uses of R at USDA NASS](presentations/2017-09-11_cruze.pdf)|Nathan Cruze, National Agricultural Statistics Service|
-|4:40 PM - 5:00 PM|Discussion of using R at Federal Agencies|Ann Vega, U.S. Environmental Protection Agency|
-|**Evening Activities**|||
-|5:00 PM - 6:30 PM|Informal Social|Dubliner Irish Pub & Restaurant|
+|Time   |Title                         |Speaker                    |Slides|Recording|
+|-------|------------------------------|---------------------------|------|---------|
+|11:00 AM - 1:00 PM|Registration||||
+|1:00 PM - 1:10 PM|Introduction|Jeff Hollister and Ann Vega, US EPA, Office of Research and Development|||
+|1:10 PM - 1:30 PM|Welcome|Harvey Simon, US EPA, Office of Environmental Information, Acting Deputy CIO||[Starts at 0:00:48](https://epawebconferencing.acms.com/pzg8qqiyc7/?launcher=false&fcsContent=true&pbMode=normal)|
+|**Keynote Address**|||||
+|1:30 PM - 2:30 PM|EPA-R: Open Software, Big Data, and Modern Statistical Modeling|Joel Schwartz, Harvard University, T.H. Chan School of Public Health|[pptx](presentations/2017-09-11_schwartz.pptx)|[Starts at 0:11:00](https://epawebconferencing.acms.com/pzg8qqiyc7/?launcher=false&fcsContent=true&pbMode=normal)|
+|2:30 PM - 3:00 PM|**Break**||||
+|**R Across the Federal Gov**|||||
+|3:00 PM - 3:20 PM|R: Innovating at the Bureau of Labor Statistics|Arcenis Rojas, Bureau of Labor Statistics|[pptx](presentations/2017-09-11_rojas.pptx)|[Starts at 0:00:00](https://epawebconferencing.acms.com/p1xhaj7xmrc/?launcher=false&fcsContent=true&pbMode=normal)|
+|3:20 PM - 3:40 PM|In with the New: a Shiny App for Exploring Summary Data Tables from the Medical Expenditure Panel Survey|Emily Mitchell, Agency for Healthcare Research and Quality|[pdf](presentations/2017-09-11_mitchell.pdf)|[Starts at 0:21:20](https://epawebconferencing.acms.com/p1xhaj7xmrc/?launcher=false&fcsContent=true&pbMode=normal)|
+|3:40 PM - 4:00 PM|An R Shiny Implementation for Clinical Review Tools at the FDA|Jimmy Wong, Food and Drug Administration|[pptx]((presentations/2017-09-11_wong.pptx))|[Starts at 0:44:20](https://epawebconferencing.acms.com/p1xhaj7xmrc/?launcher=false&fcsContent=true&pbMode=normal)|
+|4:00 PM - 4:20 PM|Reproducibility and Applications|Richard Schwinn, Small Business Administration|[pdf](presentations/2017-09-11_schwinn.pdf)|[Starts at 1:01:55](https://epawebconferencing.acms.com/p1xhaj7xmrc/?launcher=false&fcsContent=true&pbMode=normal)|
+|4:20 PM - 4:40 PM|Some Uses of R at USDA NASS|Nathan Cruze, National Agricultural Statistics Service|[pdf](presentations/2017-09-11_cruze.pdf)|[Starts at 1:19:50](https://epawebconferencing.acms.com/p1xhaj7xmrc/?launcher=false&fcsContent=true&pbMode=normal)|
+|4:40 PM - 5:00 PM|Discussion of using R at Federal Agencies|Ann Vega, U.S. Environmental Protection Agency|Ann Vega||[Starts at 1:38:47](https://epawebconferencing.acms.com/p1xhaj7xmrc/?launcher=false&fcsContent=true&pbMode=normal)|
+|**Evening Activities**|||||
+|5:00 PM - 6:30 PM|Informal Social|Dubliner Irish Pub & Restaurant|||
 
 ## Tues, Sep. 12
 
@@ -60,22 +60,22 @@ When you arrive at BLS, let the guard know that you are with the EPA R Workshop 
 
 ## Wed, Sep 13
 
-|Time   |Title                         |Speaker                    |
-|-------|------------------------------|---------------------------|
-|8:45 AM - 9:00 AM|Welcome Day 2||   
-|**R at US EPA**|||
-|9:00 AM - 9:20 AM|[Hierarchical modeling: an overview and an environmental application]()|Mike Messner, US EPA, Office of Water|
-|9:20 AM - 9:40 AM|[Trend Analysis](presentations/2017-09-13_farrar.pptx)|David Farrar, US EPA, Office of Research and Development|
-|9:40 AM - 10:00 AM|["AIRPORT", the AQS Shiny App](presentations/2017-09-13_krabbe.pptx)|Stephen Krabbe, US EPA, Region 7|
-|10:00 AM - 10:20 AM|[A Shiny app for QCing continuous stream sensor data](presentations/2017-09-13_gibbs.pptx)|David Gibbs, US EPA, ORISE Participant|
-|10:20 AM - 10:40 AM|[Water quality portal data discovery and analysis tools](presentations/2017-09-13_dean.pptx)|Britt Dean, US EPA, ORISE Participant and Laura Shumway, US EPA, Office of Water|
-|10:40 AM - 11:00 AM|[R packages as a reproducible framework for lake and cyanobacteria research](https://usepa.github.io/reproducible_lakes)|Jeff Hollister, US EPA, Office of Research and Development|
-|11:00 AM - 11:15 AM|**Break**||
-|**Short Talks**|||
-|11:15 AM - 11:25 AM|[Using R to write control code for a CNC router](presentations/2017-09-13_messner_router.pptx)|Michael Messner, US EPA, Office of Water|
-|11:25 AM - 11:35 AM|[Using R to Analyze GeoSpatial Multi-Pollutant Data](presentations/2017-09-13_fuoco.pptx)|Marta Fuoco, US EPA, Region 5|
-|11:35 AM - 11:45 AM|[Organizing Data from Long-to-Wide Format – Issues and Troubleshooting](presentations/2017-09-13_heinrich.pptx)|Austin Heinrich, US EPA, Office of Water|
-|11:45 AM - 11:50 AM|Questions?|| 
-|11:50 AM - Noon|Wrap-up|Ann Vega|
+|Time   |Title                         |Speaker                    |Slides|Recording|
+|-------|------------------------------|---------------------------|------|---------|
+|8:45 AM - 9:00 AM|Welcome Day 2||||   
+|**R at US EPA**|||||
+|9:00 AM - 9:20 AM|Hierarchical modeling: an overview and an environmental application|Mike Messner, US EPA, Office of Water|[TBD]()|[Starts at 0:02:15](https://epawebconferencing.acms.com/p7yrquq8jcg/?launcher=false&fcsContent=true&pbMode=normal)|
+|9:20 AM - 9:40 AM|multcomp for dose-response data|David Farrar, US EPA, Office of Research and Development|[pptx](presentations/2017-09-13_farrar.pptx)|[Starts at 0:27:08 ](https://epawebconferencing.acms.com/p7yrquq8jcg/?launcher=false&fcsContent=true&pbMode=normal)|
+|9:40 AM - 10:00 AM|"AIRPORT", the AQS Shiny App|Stephen Krabbe, US EPA, Region 7|[pptx](presentations/2017-09-13_krabbe.pptx)|[Starts at 0:45:35 ](https://epawebconferencing.acms.com/p7yrquq8jcg/?launcher=false&fcsContent=true&pbMode=normal)|
+|10:00 AM - 10:20 AM|A Shiny app for QCing continuous stream sensor data|David Gibbs, US EPA, ORISE Participant|[pptx](presentations/2017-09-13_gibbs.pptx)|[Starts at 1:05:35 ](https://epawebconferencing.acms.com/p7yrquq8jcg/?launcher=false&fcsContent=true&pbMode=normal)|
+|10:20 AM - 10:40 AM|Water quality portal data discovery and analysis tools|Britt Dean, US EPA, ORISE Participant and Laura Shumway, US EPA, Office of Water|[pptx](presentations/2017-09-13_dean.pptx)|[Starts at 1:25:10 ](https://epawebconferencing.acms.com/p7yrquq8jcg/?launcher=false&fcsContent=true&pbMode=normal)|
+|10:40 AM - 11:00 AM|R packages as a reproducible framework for lake and cyanobacteria research|Jeff Hollister, US EPA, Office of Research and Development|[web](https://usepa.github.io/reproducible_lakes)|[Starts at 1:45:35 ](https://epawebconferencing.acms.com/p7yrquq8jcg/?launcher=false&fcsContent=true&pbMode=normal)|
+|11:00 AM - 11:15 AM|**Break**||||
+|**Short Talks**|||||
+|11:15 AM - 11:25 AM|Using R to write control code for a CNC router|Michael Messner, US EPA, Office of Water|[pptx](presentations/2017-09-13_messner_router.pptx)|[Starts at 2:14:00 ](https://epawebconferencing.acms.com/p7yrquq8jcg/?launcher=false&fcsContent=true&pbMode=normal)|
+|11:25 AM - 11:35 AM|Using R to Analyze GeoSpatial Multi-Pollutant Data|Marta Fuoco, US EPA, Region 5|[pptx](presentations/2017-09-13_fuoco.pptx)|[Starts at 2:27:00 ](https://epawebconferencing.acms.com/p7yrquq8jcg/?launcher=false&fcsContent=true&pbMode=normal)|
+|11:35 AM - 11:45 AM|Organizing Data from Long-to-Wide Format – Issues and Troubleshooting|Austin Heinrich, US EPA, Office of Water|[pptx](presentations/2017-09-13_heinrich.pptx)|[Starts at 2:37:05 ](https://epawebconferencing.acms.com/p7yrquq8jcg/?launcher=false&fcsContent=true&pbMode=normal)|
+|11:45 AM - 11:50 AM|Questions?|||| 
+|11:50 AM - Noon|Wrap-up|Ann Vega|||
 
 *Note:  This agenda is lovingly made with RStudio, R, `rmarkdown`, and `knitr`.  If interested, as Jeff for details, or look at the [source](index.Rmd)*
